@@ -6,8 +6,6 @@ export default function MainLayout() {
   return (
     <main className="h-full w-full">
       <Navbar />
-      <Dropdown />
-      <Card />
     </main>
   );
 }
