@@ -1,5 +1,5 @@
 import Link from "next/link";
-import navItems from "./Items";
+import navItems from "./NavItems";
 
 export default function Navbar() {
   return (
